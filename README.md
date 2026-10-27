@@ -12,10 +12,10 @@ The Kaspi Liseyi at-home mock exam app. This page only holds the installers.
 ## İlk açılış / Первый запуск / First launch
 
 **Windows:** "Windows protected your PC" çıxsa → **More info** → **Run anyway**.
-Если появится «Windows защитил ваш компьютер» → **Подробнее** → **Выполнить в любом случае**.
+Если появится «Система Windows защитила ваш компьютер» → **Подробнее** → **Выполнить в любом случае**.
 
-**Mac:** faylı açın, KaspiGo-nu **Applications** qovluğuna çəkin. İlk dəfə tətbiqin üstündə sağ klik → **Open** → **Open**.
-Откройте файл, перетащите KaspiGo в **Applications**. В первый раз: правый клик по приложению → **Open** → **Open**.
+**Mac:** faylı açın, KaspiGo-nu **Applications** qovluğuna çəkin və açın. Mac açmağa icazə verməsə: **System Settings → Privacy & Security** → aşağıda **Open Anyway** → **Open**. (Köhnə macOS-da: tətbiqin üstündə sağ klik → **Open** → **Open**.)
+Откройте файл, перетащите KaspiGo в **Applications** и запустите. Если Mac не разрешает: **Системные настройки → Конфиденциальность и безопасность** → внизу **Всё равно открыть** → **Открыть**. (На старых macOS: правый клик по приложению → **Открыть** → **Открыть**.)
 
 Sual olsa, müəllimə yazın. / Если есть вопросы, напишите учителю.
 
